@@ -1,7 +1,4 @@
-README.MD for Hello World
+README.MD 
 
-Hello World!
-
-Good evening!
-
+A simple C program
 
