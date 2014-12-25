@@ -1,4 +1,5 @@
-/* 25-Dec-2014: Jaideep: Added comment */
+/* Purpose: Print Hello World */
+/* 25-Dec-2014: Jaideep: Added comments */
 
 #include<stdio.h>
 
