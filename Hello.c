@@ -13,6 +13,5 @@ int main()
 	printf("Enter a character:");
 	scanf("%c",&c);
 	printf("All is well!\n");
-	printf("Howdy!\n");
 	return 0;
 }
