@@ -11,5 +11,6 @@ int main()
 	printf("Good evening!\n");
 	printf("Enter a character:");
 	scanf("%c",&c);
+	printf("All is well!\n");
 	return 0;
 }
