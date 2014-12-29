@@ -1,7 +1,8 @@
 /* Purpose: Print Hello World */
 /* 25-Dec-2014: Jaideep: Added comments */
 /* 29-Dec-2014: Made changes */
-/* 29-Dec-2014: Made new changes */
+/* 29-Dec-2014: Made some more changes */
+
 
 #include<stdio.h>
 
